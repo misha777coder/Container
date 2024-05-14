@@ -1,0 +1,61 @@
+
+Container:
+Piramid:
+Base: triangle  a: 9	b: 4	c: 6
+	baseArea: 9.5623		basePer: 19
+	Volume: 9.46667		SideArea: 28.5		SurfaceArea: 38.0623
+Cone:
+Base: Circle  r: 2
+	baseArea: 12.56		basePer: 12.56
+	Volume: 12.4344		SideArea: 22.6429		SurfaceArea: 35.2029
+Parallelepiped:
+Base: Rectangle  a: 5	b: 5
+	baseArea: 25		basePer: 10
+	Volume: 125	SideArea: 50	SurfaceArea: 100
+Cylinder:
+Base: Circle  r: 5
+	baseArea: 78.5		basePer: 31.4
+	Volume: 471		SideArea: 188.4		SurfaceArea: 345.4
+
+Container after add:
+Cylinder:
+Base: Circle  r: 22
+	baseArea: 1519.76		basePer: 138.16
+	Volume: 4559.28		SideArea: 414.48		SurfaceArea: 3454
+Piramid:
+Base: triangle  a: 9	b: 4	c: 6
+	baseArea: 9.5623		basePer: 19
+	Volume: 9.46667		SideArea: 28.5		SurfaceArea: 38.0623
+Cone:
+Base: Circle  r: 2
+	baseArea: 12.56		basePer: 12.56
+	Volume: 12.4344		SideArea: 22.6429		SurfaceArea: 35.2029
+Parallelepiped:
+Base: Rectangle  a: 5	b: 5
+	baseArea: 25		basePer: 10
+	Volume: 125	SideArea: 50	SurfaceArea: 100
+Cylinder:
+Base: Circle  r: 5
+	baseArea: 78.5		basePer: 31.4
+	Volume: 471		SideArea: 188.4		SurfaceArea: 345.4
+
+Container after pop:
+Cylinder:
+Base: Circle  r: 22
+	baseArea: 1519.76		basePer: 138.16
+	Volume: 4559.28		SideArea: 414.48		SurfaceArea: 3454
+Piramid:
+Base: triangle  a: 9	b: 4	c: 6
+	baseArea: 9.5623		basePer: 19
+	Volume: 9.46667		SideArea: 28.5		SurfaceArea: 38.0623
+Parallelepiped:
+Base: Rectangle  a: 5	b: 5
+	baseArea: 25		basePer: 10
+	Volume: 125	SideArea: 50	SurfaceArea: 100
+Cylinder:
+Base: Circle  r: 5
+	baseArea: 78.5		basePer: 31.4
+	Volume: 471		SideArea: 188.4		SurfaceArea: 345.4
+
+Array is empty!
+
